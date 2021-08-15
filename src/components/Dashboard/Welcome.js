@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
   container: {
     marginHorizontal: 50,
     marginTop: 20,
-    height: "30%",
+    height: "25%",
   },
   welcomeText: {
     fontSize: 24,

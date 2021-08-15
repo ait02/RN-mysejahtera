@@ -34,8 +34,9 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: "row",
     justifyContent: "center",
-    marginTop: 20,
+    marginTop: 25,
     marginHorizontal: 50,
+    height: "20%",
   },
   boxOneView: {
     marginHorizontal: 10,

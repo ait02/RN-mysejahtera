@@ -3,7 +3,7 @@ import { ScrollView, StyleSheet, Text, View } from "react-native";
 
 const Headlines = () => {
   return (
-    <ScrollView horizontal style={{ top: -30 }}>
+    <ScrollView horizontal style={{ top: -60 }}>
       <View style={styles.greenBox}></View>
       <View style={styles.greenBox}></View>
       <View style={styles.greenBox}></View>

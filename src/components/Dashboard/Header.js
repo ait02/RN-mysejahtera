@@ -39,6 +39,7 @@ export default Header;
 const styles = StyleSheet.create({
   background: {
     display: "flex",
+    height: "20%",
   },
   container: {
     // height: "8%",
